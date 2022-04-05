@@ -1,0 +1,405 @@
+medium	description	compound	name
+BA[CO2]	Basic anaerobic medium (CO2)	nh4	Ammonium
+BA[CO2]	Basic anaerobic medium (CO2)	cl	Cl-
+BA[CO2]	Basic anaerobic medium (CO2)	na1	Na+
+BA[CO2]	Basic anaerobic medium (CO2)	mg2	Mg
+BA[CO2]	Basic anaerobic medium (CO2)	ca2	Ca2+
+BA[CO2]	Basic anaerobic medium (CO2)	k	K+
+BA[CO2]	Basic anaerobic medium (CO2)	h2o	H2O
+BA[CO2]	Basic anaerobic medium (CO2)	pi	Phosphate
+BA[CO2]	Basic anaerobic medium (CO2)	fe2	Fe2+
+BA[CO2]	Basic anaerobic medium (CO2)	fe3	Fe3+
+BA[CO2]	Basic anaerobic medium (CO2)	-	H3BO3
+BA[CO2]	Basic anaerobic medium (CO2)	zn2	Zn2+
+BA[CO2]	Basic anaerobic medium (CO2)	cu2	Cu2+
+BA[CO2]	Basic anaerobic medium (CO2)	mn2	Mn2+
+BA[CO2]	Basic anaerobic medium (CO2)	mobd	Molybdate
+BA[CO2]	Basic anaerobic medium (CO2)	-	AlCl3
+BA[CO2]	Basic anaerobic medium (CO2)	cobalt2	Co2+
+BA[CO2]	Basic anaerobic medium (CO2)	ni2	Ni2+
+BA[CO2]	Basic anaerobic medium (CO2)	-	EDTA
+BA[CO2]	Basic anaerobic medium (CO2)	slnt	Selenite
+BA[CO2]	Basic anaerobic medium (CO2)	btn	Biotin
+BA[CO2]	Basic anaerobic medium (CO2)	fol	Folate
+BA[CO2]	Basic anaerobic medium (CO2)	pydxn	Pyridoxine
+BA[CO2]	Basic anaerobic medium (CO2)	pydx	Pyridoxal
+BA[CO2]	Basic anaerobic medium (CO2)	rbflvrd	Reduced riboflavin
+BA[CO2]	Basic anaerobic medium (CO2)	ribflv	Riboflavin C17H20N4O6
+BA[CO2]	Basic anaerobic medium (CO2)	thm	Thiamin
+BA[CO2]	Basic anaerobic medium (CO2)	cbl1	Cobalamin
+BA[CO2]	Basic anaerobic medium (CO2)	nac	Nicotinate
+BA[CO2]	Basic anaerobic medium (CO2)	4abz	4-aminobenzoate
+BA[CO2]	Basic anaerobic medium (CO2)	lipoate	Lipoate
+BA[CO2]	Basic anaerobic medium (CO2)	pnto__R	(R)-Pantothenate
+BA[CO2]	Basic anaerobic medium (CO2)	s	Sulfur
+BA[CO2]	Basic anaerobic medium (CO2)	h2s	Hydrogen sulfide
+BA[CO2]	Basic anaerobic medium (CO2)	so2	Sulfur dioxide
+BA[CO2]	Basic anaerobic medium (CO2)	so3	Sulfite
+BA[CO2]	Basic anaerobic medium (CO2)	so4	Sulfate
+BA[CO2]	Basic anaerobic medium (CO2)	h	H+
+BA[CO2]	Basic anaerobic medium (CO2)	h2	Hydrogen
+BA[CO2]	Basic anaerobic medium (CO2)	co2	CO2
+BA[CO2]	Basic anaerobic medium (CO2)	hco3	Bicarbonate
+BA[acetate]	Basic anaerobic medium (acetate)	nh4	Ammonium
+BA[acetate]	Basic anaerobic medium (acetate)	cl	Cl-
+BA[acetate]	Basic anaerobic medium (acetate)	na1	Na+
+BA[acetate]	Basic anaerobic medium (acetate)	mg2	Mg
+BA[acetate]	Basic anaerobic medium (acetate)	ca2	Ca2+
+BA[acetate]	Basic anaerobic medium (acetate)	k	K+
+BA[acetate]	Basic anaerobic medium (acetate)	h2o	H2O
+BA[acetate]	Basic anaerobic medium (acetate)	pi	Phosphate
+BA[acetate]	Basic anaerobic medium (acetate)	fe2	Fe2+
+BA[acetate]	Basic anaerobic medium (acetate)	fe3	Fe3+
+BA[acetate]	Basic anaerobic medium (acetate)	-	H3BO3
+BA[acetate]	Basic anaerobic medium (acetate)	zn2	Zn2+
+BA[acetate]	Basic anaerobic medium (acetate)	cu2	Cu2+
+BA[acetate]	Basic anaerobic medium (acetate)	mn2	Mn2+
+BA[acetate]	Basic anaerobic medium (acetate)	mobd	Molybdate
+BA[acetate]	Basic anaerobic medium (acetate)	-	AlCl3
+BA[acetate]	Basic anaerobic medium (acetate)	cobalt2	Co2+
+BA[acetate]	Basic anaerobic medium (acetate)	ni2	Ni2+
+BA[acetate]	Basic anaerobic medium (acetate)	-	EDTA
+BA[acetate]	Basic anaerobic medium (acetate)	slnt	Selenite
+BA[acetate]	Basic anaerobic medium (acetate)	btn	Biotin
+BA[acetate]	Basic anaerobic medium (acetate)	fol	Folate
+BA[acetate]	Basic anaerobic medium (acetate)	pydxn	Pyridoxine
+BA[acetate]	Basic anaerobic medium (acetate)	pydx	Pyridoxal
+BA[acetate]	Basic anaerobic medium (acetate)	rbflvrd	Reduced riboflavin
+BA[acetate]	Basic anaerobic medium (acetate)	ribflv	Riboflavin C17H20N4O6
+BA[acetate]	Basic anaerobic medium (acetate)	thm	Thiamin
+BA[acetate]	Basic anaerobic medium (acetate)	cbl1	Cobalamin
+BA[acetate]	Basic anaerobic medium (acetate)	nac	Nicotinate
+BA[acetate]	Basic anaerobic medium (acetate)	4abz	4-aminobenzoate
+BA[acetate]	Basic anaerobic medium (acetate)	lipoate	Lipoate
+BA[acetate]	Basic anaerobic medium (acetate)	pnto__R	(R)-Pantothenate
+BA[acetate]	Basic anaerobic medium (acetate)	s	Sulfur
+BA[acetate]	Basic anaerobic medium (acetate)	h2s	Hydrogen sulfide
+BA[acetate]	Basic anaerobic medium (acetate)	so2	Sulfur dioxide
+BA[acetate]	Basic anaerobic medium (acetate)	so3	Sulfite
+BA[acetate]	Basic anaerobic medium (acetate)	so4	Sulfate
+BA[acetate]	Basic anaerobic medium (acetate)	h	H+
+BA[acetate]	Basic anaerobic medium (acetate)	ac	Acetate
+BA[acetate+H2]	Basic anaerobic medium (acetate and hydrogen)	nh4	Ammonium
+BA[acetate+H2]	Basic anaerobic medium (acetate and hydrogen)	cl	Cl-
+BA[acetate+H2]	Basic anaerobic medium (acetate and hydrogen)	na1	Na+
+BA[acetate+H2]	Basic anaerobic medium (acetate and hydrogen)	mg2	Mg
+BA[acetate+H2]	Basic anaerobic medium (acetate and hydrogen)	ca2	Ca2+
+BA[acetate+H2]	Basic anaerobic medium (acetate and hydrogen)	k	K+
+BA[acetate+H2]	Basic anaerobic medium (acetate and hydrogen)	h2o	H2O
+BA[acetate+H2]	Basic anaerobic medium (acetate and hydrogen)	pi	Phosphate
+BA[acetate+H2]	Basic anaerobic medium (acetate and hydrogen)	fe2	Fe2+
+BA[acetate+H2]	Basic anaerobic medium (acetate and hydrogen)	fe3	Fe3+
+BA[acetate+H2]	Basic anaerobic medium (acetate and hydrogen)	-	H3BO3
+BA[acetate+H2]	Basic anaerobic medium (acetate and hydrogen)	zn2	Zn2+
+BA[acetate+H2]	Basic anaerobic medium (acetate and hydrogen)	cu2	Cu2+
+BA[acetate+H2]	Basic anaerobic medium (acetate and hydrogen)	mn2	Mn2+
+BA[acetate+H2]	Basic anaerobic medium (acetate and hydrogen)	mobd	Molybdate
+BA[acetate+H2]	Basic anaerobic medium (acetate and hydrogen)	-	AlCl3
+BA[acetate+H2]	Basic anaerobic medium (acetate and hydrogen)	cobalt2	Co2+
+BA[acetate+H2]	Basic anaerobic medium (acetate and hydrogen)	ni2	Ni2+
+BA[acetate+H2]	Basic anaerobic medium (acetate and hydrogen)	-	EDTA
+BA[acetate+H2]	Basic anaerobic medium (acetate and hydrogen)	slnt	Selenite
+BA[acetate+H2]	Basic anaerobic medium (acetate and hydrogen)	btn	Biotin
+BA[acetate+H2]	Basic anaerobic medium (acetate and hydrogen)	fol	Folate
+BA[acetate+H2]	Basic anaerobic medium (acetate and hydrogen)	pydxn	Pyridoxine
+BA[acetate+H2]	Basic anaerobic medium (acetate and hydrogen)	pydx	Pyridoxal
+BA[acetate+H2]	Basic anaerobic medium (acetate and hydrogen)	rbflvrd	Reduced riboflavin
+BA[acetate+H2]	Basic anaerobic medium (acetate and hydrogen)	ribflv	Riboflavin C17H20N4O6
+BA[acetate+H2]	Basic anaerobic medium (acetate and hydrogen)	thm	Thiamin
+BA[acetate+H2]	Basic anaerobic medium (acetate and hydrogen)	cbl1	Cobalamin
+BA[acetate+H2]	Basic anaerobic medium (acetate and hydrogen)	nac	Nicotinate
+BA[acetate+H2]	Basic anaerobic medium (acetate and hydrogen)	4abz	4-aminobenzoate
+BA[acetate+H2]	Basic anaerobic medium (acetate and hydrogen)	lipoate	Lipoate
+BA[acetate+H2]	Basic anaerobic medium (acetate and hydrogen)	pnto__R	(R)-Pantothenate
+BA[acetate+H2]	Basic anaerobic medium (acetate and hydrogen)	s	Sulfur
+BA[acetate+H2]	Basic anaerobic medium (acetate and hydrogen)	h2s	Hydrogen sulfide
+BA[acetate+H2]	Basic anaerobic medium (acetate and hydrogen)	so2	Sulfur dioxide
+BA[acetate+H2]	Basic anaerobic medium (acetate and hydrogen)	so3	Sulfite
+BA[acetate+H2]	Basic anaerobic medium (acetate and hydrogen)	so4	Sulfate
+BA[acetate+H2]	Basic anaerobic medium (acetate and hydrogen)	h	H+
+BA[acetate+H2]	Basic anaerobic medium (acetate and hydrogen)	h2	Hydrogen
+BA[acetate+H2]	Basic anaerobic medium (acetate and hydrogen)	ac	Acetate
+BA[methanol]	Basic anaerobic medium (methanol)	nh4	Ammonium
+BA[methanol]	Basic anaerobic medium (methanol)	cl	Cl-
+BA[methanol]	Basic anaerobic medium (methanol)	na1	Na+
+BA[methanol]	Basic anaerobic medium (methanol)	mg2	Mg
+BA[methanol]	Basic anaerobic medium (methanol)	ca2	Ca2+
+BA[methanol]	Basic anaerobic medium (methanol)	k	K+
+BA[methanol]	Basic anaerobic medium (methanol)	h2o	H2O
+BA[methanol]	Basic anaerobic medium (methanol)	pi	Phosphate
+BA[methanol]	Basic anaerobic medium (methanol)	fe2	Fe2+
+BA[methanol]	Basic anaerobic medium (methanol)	fe3	Fe3+
+BA[methanol]	Basic anaerobic medium (methanol)	-	H3BO3
+BA[methanol]	Basic anaerobic medium (methanol)	zn2	Zn2+
+BA[methanol]	Basic anaerobic medium (methanol)	cu2	Cu2+
+BA[methanol]	Basic anaerobic medium (methanol)	mn2	Mn2+
+BA[methanol]	Basic anaerobic medium (methanol)	mobd	Molybdate
+BA[methanol]	Basic anaerobic medium (methanol)	-	AlCl3
+BA[methanol]	Basic anaerobic medium (methanol)	cobalt2	Co2+
+BA[methanol]	Basic anaerobic medium (methanol)	ni2	Ni2+
+BA[methanol]	Basic anaerobic medium (methanol)	-	EDTA
+BA[methanol]	Basic anaerobic medium (methanol)	slnt	Selenite
+BA[methanol]	Basic anaerobic medium (methanol)	btn	Biotin
+BA[methanol]	Basic anaerobic medium (methanol)	fol	Folate
+BA[methanol]	Basic anaerobic medium (methanol)	pydxn	Pyridoxine
+BA[methanol]	Basic anaerobic medium (methanol)	pydx	Pyridoxal
+BA[methanol]	Basic anaerobic medium (methanol)	rbflvrd	Reduced riboflavin
+BA[methanol]	Basic anaerobic medium (methanol)	ribflv	Riboflavin C17H20N4O6
+BA[methanol]	Basic anaerobic medium (methanol)	thm	Thiamin
+BA[methanol]	Basic anaerobic medium (methanol)	cbl1	Cobalamin
+BA[methanol]	Basic anaerobic medium (methanol)	nac	Nicotinate
+BA[methanol]	Basic anaerobic medium (methanol)	4abz	4-aminobenzoate
+BA[methanol]	Basic anaerobic medium (methanol)	lipoate	Lipoate
+BA[methanol]	Basic anaerobic medium (methanol)	pnto__R	(R)-Pantothenate
+BA[methanol]	Basic anaerobic medium (methanol)	s	Sulfur
+BA[methanol]	Basic anaerobic medium (methanol)	h2s	Hydrogen sulfide
+BA[methanol]	Basic anaerobic medium (methanol)	so2	Sulfur dioxide
+BA[methanol]	Basic anaerobic medium (methanol)	so3	Sulfite
+BA[methanol]	Basic anaerobic medium (methanol)	so4	Sulfate
+BA[methanol]	Basic anaerobic medium (methanol)	h	H+
+BA[methanol]	Basic anaerobic medium (methanol)	meoh	Methanol
+BPF	Biogas plant feedstock	10fthf	10fthf
+BPF	Biogas plant feedstock	12ppd__R	12ppd__R
+BPF	Biogas plant feedstock	1mncam	1mncam
+BPF	Biogas plant feedstock	2hb	2hb
+BPF	Biogas plant feedstock	34hpl	34hpl
+BPF	Biogas plant feedstock	3aib	3aib
+BPF	Biogas plant feedstock	3hpp	3hpp
+BPF	Biogas plant feedstock	3mox4hoxm	3mox4hoxm
+BPF	Biogas plant feedstock	4abut	4abut
+BPF	Biogas plant feedstock	4hbz	4hbz
+BPF	Biogas plant feedstock	4hphac	4hphac
+BPF	Biogas plant feedstock	4mop	4mop
+BPF	Biogas plant feedstock	56dthm	56dthm
+BPF	Biogas plant feedstock	5aptn	5aptn
+BPF	Biogas plant feedstock	5htrp	5htrp
+BPF	Biogas plant feedstock	5mthf	5mthf
+BPF	Biogas plant feedstock	5oxpro	5oxpro
+BPF	Biogas plant feedstock	C01601	C01601
+BPF	Biogas plant feedstock	C02356	C02356
+BPF	Biogas plant feedstock	C10164	C10164
+BPF	Biogas plant feedstock	CE1310	CE1310
+BPF	Biogas plant feedstock	CE2510	CE2510
+BPF	Biogas plant feedstock	CE2934	CE2934
+BPF	Biogas plant feedstock	CE4968	CE4968
+BPF	Biogas plant feedstock	HC00319	HC00319
+BPF	Biogas plant feedstock	HC00342	HC00342
+BPF	Biogas plant feedstock	HC00460	HC00460
+BPF	Biogas plant feedstock	HC00900	HC00900
+BPF	Biogas plant feedstock	L2aadp	L2aadp
+BPF	Biogas plant feedstock	Lpipecol	Lpipecol
+BPF	Biogas plant feedstock	ac	ac
+BPF	Biogas plant feedstock	acac	acac
+BPF	Biogas plant feedstock	acetone	acetone
+BPF	Biogas plant feedstock	acglu	acglu
+BPF	Biogas plant feedstock	acrn	acrn
+BPF	Biogas plant feedstock	ade	ade
+BPF	Biogas plant feedstock	adocbl	adocbl
+BPF	Biogas plant feedstock	adrn	adrn
+BPF	Biogas plant feedstock	ahandrostanglc	ahandrostanglc
+BPF	Biogas plant feedstock	akg	akg
+BPF	Biogas plant feedstock	ala_B	ala_B
+BPF	Biogas plant feedstock	ala__L	ala__L
+BPF	Biogas plant feedstock	alltn	alltn
+BPF	Biogas plant feedstock	alltt	alltt
+BPF	Biogas plant feedstock	arach	arach
+BPF	Biogas plant feedstock	arachd	arachd
+BPF	Biogas plant feedstock	arg__D	arg__D
+BPF	Biogas plant feedstock	arg__L	arg__L
+BPF	Biogas plant feedstock	ascb__L	ascb__L
+BPF	Biogas plant feedstock	asn__L	asn__L
+BPF	Biogas plant feedstock	asp__L	asp__L
+BPF	Biogas plant feedstock	avite1	avite1
+BPF	Biogas plant feedstock	bgly	bgly
+BPF	Biogas plant feedstock	bhb	bhb
+BPF	Biogas plant feedstock	btn	btn
+BPF	Biogas plant feedstock	but	but
+BPF	Biogas plant feedstock	bz	bz
+BPF	Biogas plant feedstock	ca2	ca2
+BPF	Biogas plant feedstock	cala	cala
+BPF	Biogas plant feedstock	caro	caro
+BPF	Biogas plant feedstock	cbasp	cbasp
+BPF	Biogas plant feedstock	cell4	cell4
+BPF	Biogas plant feedstock	cell6	cell6
+BPF	Biogas plant feedstock	cellb	cellb
+BPF	Biogas plant feedstock	chol	chol
+BPF	Biogas plant feedstock	cholp	cholp
+BPF	Biogas plant feedstock	chsterol	chsterol
+BPF	Biogas plant feedstock	cit	cit
+BPF	Biogas plant feedstock	citr__L	citr__L
+BPF	Biogas plant feedstock	cl	cl
+BPF	Biogas plant feedstock	clpnd	clpnd
+BPF	Biogas plant feedstock	creat	creat
+BPF	Biogas plant feedstock	crtn	crtn
+BPF	Biogas plant feedstock	crvnc	crvnc
+BPF	Biogas plant feedstock	csn	csn
+BPF	Biogas plant feedstock	cu2	cu2
+BPF	Biogas plant feedstock	cys__L	cys__L
+BPF	Biogas plant feedstock	dca	dca
+BPF	Biogas plant feedstock	ddca	ddca
+BPF	Biogas plant feedstock	dheas	dheas
+BPF	Biogas plant feedstock	dma	dma
+BPF	Biogas plant feedstock	dmgly	dmgly
+BPF	Biogas plant feedstock	doco13ac	doco13ac
+BPF	Biogas plant feedstock	docosac	docosac
+BPF	Biogas plant feedstock	eidi1114ac	eidi1114ac
+BPF	Biogas plant feedstock	estroneglc	estroneglc
+BPF	Biogas plant feedstock	estrones	estrones
+BPF	Biogas plant feedstock	etha	etha
+BPF	Biogas plant feedstock	etoh	etoh
+BPF	Biogas plant feedstock	fe2	fe2
+BPF	Biogas plant feedstock	fe3	fe3
+BPF	Biogas plant feedstock	fol	fol
+BPF	Biogas plant feedstock	for	for
+BPF	Biogas plant feedstock	fru	fru
+BPF	Biogas plant feedstock	fuc__L	fuc__L
+BPF	Biogas plant feedstock	fum	fum
+BPF	Biogas plant feedstock	g1p	g1p
+BPF	Biogas plant feedstock	gal	gal
+BPF	Biogas plant feedstock	galur	galur
+BPF	Biogas plant feedstock	glc__D	glc__D
+BPF	Biogas plant feedstock	glcn	glcn
+BPF	Biogas plant feedstock	gln__L	gln__L
+BPF	Biogas plant feedstock	glu__L	glu__L
+BPF	Biogas plant feedstock	glutar	glutar
+BPF	Biogas plant feedstock	gly	gly
+BPF	Biogas plant feedstock	glyb	glyb
+BPF	Biogas plant feedstock	glyc	glyc
+BPF	Biogas plant feedstock	glyc3p	glyc3p
+BPF	Biogas plant feedstock	glyc__R	glyc__R
+BPF	Biogas plant feedstock	gua	gua
+BPF	Biogas plant feedstock	gudac	gudac
+BPF	Biogas plant feedstock	h2co3	h2co3
+BPF	Biogas plant feedstock	h2o	h2o
+BPF	Biogas plant feedstock	hcys__L	hcys__L
+BPF	Biogas plant feedstock	hdca	hdca
+BPF	Biogas plant feedstock	hdcea	hdcea
+BPF	Biogas plant feedstock	his__L	his__L
+BPF	Biogas plant feedstock	hista	hista
+BPF	Biogas plant feedstock	hom__L	hom__L
+BPF	Biogas plant feedstock	hpdca	hpdca
+BPF	Biogas plant feedstock	hyptaur	hyptaur
+BPF	Biogas plant feedstock	i	i
+BPF	Biogas plant feedstock	ile__L	ile__L
+BPF	Biogas plant feedstock	ind3ac	ind3ac
+BPF	Biogas plant feedstock	indole	indole
+BPF	Biogas plant feedstock	inost	inost
+BPF	Biogas plant feedstock	k	k
+BPF	Biogas plant feedstock	lac__D	lac__D
+BPF	Biogas plant feedstock	lcts	lcts
+BPF	Biogas plant feedstock	leu__L	leu__L
+BPF	Biogas plant feedstock	lgnc	lgnc
+BPF	Biogas plant feedstock	lnlc	lnlc
+BPF	Biogas plant feedstock	lnlnca	lnlnca
+BPF	Biogas plant feedstock	lys__L	lys__L
+BPF	Biogas plant feedstock	malt	malt
+BPF	Biogas plant feedstock	meoh	meoh
+BPF	Biogas plant feedstock	met__L	met__L
+BPF	Biogas plant feedstock	mg2	mg2
+BPF	Biogas plant feedstock	mma	mma
+BPF	Biogas plant feedstock	mn2	mn2
+BPF	Biogas plant feedstock	mnl	mnl
+BPF	Biogas plant feedstock	na1	na1
+BPF	Biogas plant feedstock	nac	nac
+BPF	Biogas plant feedstock	ncam	ncam
+BPF	Biogas plant feedstock	ocdca	ocdca
+BPF	Biogas plant feedstock	ocdcea	ocdcea
+BPF	Biogas plant feedstock	octa	octa
+BPF	Biogas plant feedstock	orn	orn
+BPF	Biogas plant feedstock	orot	orot
+BPF	Biogas plant feedstock	oxa	oxa
+BPF	Biogas plant feedstock	pac	pac
+BPF	Biogas plant feedstock	pect	pect
+BPF	Biogas plant feedstock	phe__L	phe__L
+BPF	Biogas plant feedstock	pheacgln	pheacgln
+BPF	Biogas plant feedstock	pheacgly	pheacgly
+BPF	Biogas plant feedstock	phllqne	phllqne
+BPF	Biogas plant feedstock	pi	pi
+BPF	Biogas plant feedstock	pnto__R	pnto__R
+BPF	Biogas plant feedstock	ppa	ppa
+BPF	Biogas plant feedstock	pro__L	pro__L
+BPF	Biogas plant feedstock	ptdca	ptdca
+BPF	Biogas plant feedstock	ptrc	ptrc
+BPF	Biogas plant feedstock	pydam	pydam
+BPF	Biogas plant feedstock	pydx	pydx
+BPF	Biogas plant feedstock	pydxn	pydxn
+BPF	Biogas plant feedstock	pyr	pyr
+BPF	Biogas plant feedstock	rbt	rbt
+BPF	Biogas plant feedstock	retinol	retinol
+BPF	Biogas plant feedstock	rib__D	rib__D
+BPF	Biogas plant feedstock	ribflv	ribflv
+BPF	Biogas plant feedstock	sarcs	sarcs
+BPF	Biogas plant feedstock	sbt__D	sbt__D
+BPF	Biogas plant feedstock	sebacid	sebacid
+BPF	Biogas plant feedstock	ser__L	ser__L
+BPF	Biogas plant feedstock	starch1200	starch1200
+BPF	Biogas plant feedstock	strch1	strch1
+BPF	Biogas plant feedstock	strdnc	strdnc
+BPF	Biogas plant feedstock	succ	succ
+BPF	Biogas plant feedstock	sucr	sucr
+BPF	Biogas plant feedstock	taur	taur
+BPF	Biogas plant feedstock	thf	thf
+BPF	Biogas plant feedstock	thm	thm
+BPF	Biogas plant feedstock	thr__L	thr__L
+BPF	Biogas plant feedstock	thrnt	thrnt
+BPF	Biogas plant feedstock	tma	tma
+BPF	Biogas plant feedstock	tmao	tmao
+BPF	Biogas plant feedstock	tmlys	tmlys
+BPF	Biogas plant feedstock	trp__L	trp__L
+BPF	Biogas plant feedstock	tststeroneglc	tststeroneglc
+BPF	Biogas plant feedstock	tststerones	tststerones
+BPF	Biogas plant feedstock	ttdca	ttdca
+BPF	Biogas plant feedstock	ttdcea	ttdcea
+BPF	Biogas plant feedstock	tyr__L	tyr__L
+BPF	Biogas plant feedstock	ura	ura
+BPF	Biogas plant feedstock	urate	urate
+BPF	Biogas plant feedstock	urea	urea
+BPF	Biogas plant feedstock	uri	uri
+BPF	Biogas plant feedstock	val__L	val__L
+BPF	Biogas plant feedstock	vitd3	vitd3
+BPF	Biogas plant feedstock	xan	xan
+BPF	Biogas plant feedstock	xyl__D	xyl__D
+BPF	Biogas plant feedstock	xylt	xylt
+BPF	Biogas plant feedstock	zn2	zn2
+BPF	Biogas plant feedstock	cobalt2	cobalt2
+BPF	Biogas plant feedstock	h	h
+BPF	Biogas plant feedstock	mobd	mobd
+BPF	Biogas plant feedstock	nh4	nh4
+BPF	Biogas plant feedstock	ni2	ni2
+BPF	Biogas plant feedstock	so4	so4
+LCS	Long-chain sugars	EX_malt_e	Maltose C12H22O11
+LCS	Long-chain sugars	EX_malttr_e	Maltotriose C18H32O16
+LCS	Long-chain sugars	EX_starch1200_e	Starch n=1200 repeat units (300 repeat units amylose, 900 repeat units amylopectin, corresponds to potatoe starch)
+LCS	Long-chain sugars	EX_cellb_e	Cellobiose
+LCS	Long-chain sugars	EX_malthp_e	Maltoheptaose
+LCS	Long-chain sugars	EX_malthx_e	Maltohexaose
+LCS	Long-chain sugars	EX_maltpt_e	Maltopentaose
+LCS	Long-chain sugars	EX_maltttr_e	Maltotetraose
+LCS	Long-chain sugars	EX_melib_e	Melibiose C12H22O11
+LCS	Long-chain sugars	EX_pullulan1200_e	Pullulan (n=1200 repeat units, alpha-1,4 and alph-1,6 bounds)
+LCS	Long-chain sugars	EX_raffin_e	Raffinose C18H32O16
+LCS	Long-chain sugars	EX_glucan6_e	Beta-1,3/1,4-glucan (Barley, n=6, Glc beta1->3,4 Glc)
+LCS	Long-chain sugars	EX_glucan4_e	Beta-1,3/1,4-glucan (Barley, n=4, Glc beta1->3,4 Glc)
+LCS	Long-chain sugars	EX_pheme_e	Protoheme C34H30FeN4O4
+LCS	Long-chain sugars	EX_Larab_e	Alpha L Arabinan C15H24O12
+LCS	Long-chain sugars	EX_lmn2_e	Laminaribiose
+LCS	Long-chain sugars	EX_lmn30_e	Laminarin (n=30 repeat units, beta -1,3 glc)
+LCS	Long-chain sugars	EX_xylan4_e	Xylan (4 backbone units, 1 glcur side chain)
+LCS	Long-chain sugars	EX_xyl3_e	Xylotriose
+LCS	Long-chain sugars	EX_xylb_e	Xylobiose
+LCS	Long-chain sugars	EX_eca4colipa_e	(enterobacterial common antigen)x4 core oligosaccharide lipid A
+LCS	Long-chain sugars	EX_gm1lipa_e	4-Amino-4-deoxy-L-arabinose modified core oligosaccharide lipid A (G. metallireducens, variant 1)
+LCS	Long-chain sugars	EX_gm2lipa_e	4-Amino-4-deoxy-L-arabinose modified core oligosaccharide lipid A (G. metallireducens, variant 2)
+LCS	Long-chain sugars	EX_araban__L_e	Alpha-L-Arabinan (3 subunits)
+LCS	Long-chain sugars	EX_galman4_e	Galactomannan(n=4 repeat units mannose, alpha-1,4 man)
+LCS	Long-chain sugars	EX_galman600_e	Galactomannan (n=600 repeat units mannose, alpha-1,4 man)
+LCS	Long-chain sugars	EX_galman6_e	Galactomannan(n=6 repeat units mannose, alpha-1,4 man)
+LCS	Long-chain sugars	EX_glcman4_e	Glucomannan (n=4 repeat units, glc beta-1,4 man)
+LCS	Long-chain sugars	EX_glcman600_e	Glucomannan (n=600 repeat units, glc beta-1,4 man)
+LCS	Long-chain sugars	EX_glcman6_e	Glucomannan (n=6 repeat units, glc beta-1,4 man)
+LCS	Long-chain sugars	EX_amylose300_e	Amylose (n=300 repeat units, alpha-1,4-glc)
+LCS	Long-chain sugars	EX_glycogen1500_e	Glycogen (n=1500 repeat units) (glc alpha 1,4/6 glc)
+LCS	Long-chain sugars	EX_cell6_e	Cellulose (n=6 repeating units)
+LCS	Long-chain sugars	EX_cell4_e	Cellulose (n=4 repeating units)
+LCS	Long-chain sugars	EX_xylan12_e	Xylan (12 backbone units, 3 glcur side chain)
+LCS	Long-chain sugars	EX_xylan8_e	Xylan (8 backbone units, 2 glcur side chain)
